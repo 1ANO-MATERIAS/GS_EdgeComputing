@@ -42,8 +42,8 @@ Basta agora reproduzir o modelo do Wokwi utilizando os combonentes físicos list
 
 # Parâmetros
 
-temperatura ideal: entre 15 a 30ºC 
-umidade ideal: 40 e 70%
+- temperatura ideal: entre 15 a 30ºC 
+- umidade ideal: 40 e 70%
 ___
 ### Pré-requisitos
 Para execução do projeto é necessário conhecimento sobre o uso da plataforma Wokwi, e experiência com o uso do programa Arduino e de seus componentes físicos. É necessário também saber usos básicos da linguagem C++ para entendimento do código e ajustes necesários.
