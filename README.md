@@ -52,3 +52,5 @@ ___
 ### Links
 
 [Link para o projeto no Wokwi](https://wokwi.com/projects/381961116500578305)
+
+[Link para o video](https://youtu.be/XBq6sqF_rjI)
